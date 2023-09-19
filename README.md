@@ -1,2 +1,4 @@
 # scuptd
-ScupT data
+ScupT Database
+
+# Stay tuned!
